@@ -6,3 +6,8 @@ Der junge Hacker Neo erhält eine geheimnisvolle Botschaft auf seinem Computer, 
  * Sei frei
  * Sei frei
   * Probier mal
+
+
+As Grace Hopper said:
+> I’ve always been more interested
+> in the future than in the past
